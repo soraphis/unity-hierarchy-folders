@@ -13,8 +13,7 @@ To add this project, add a [git dependency][1] in your `manifest.json`:
 ```json
 {
   "dependencies": {
-    "com.unity.package-manager-ui": "1.9.11",
-    "com.xsduan.hierarchy-folders": "https://github.com/xsduan/unity-hierarchy-folders.git"
+    "de.soraphis.hierarchy-folders": "https://github.com/soraphis/unity-hierarchy-folders.git#v0.2.0"
   }
 }
 ```
@@ -24,8 +23,7 @@ Older versions of Unity may have to use the relative link, ie:
 ```json
 {
   "dependencies": {
-    "com.unity.package-manager-ui": "1.9.11",
-    "com.xsduan.hierarchy-folders": "file:../../unity-hierarchy-folders"
+    "de.soraphis.hierarchy-folders": "file:../../unity-hierarchy-folders"
   }
 }
 ```
