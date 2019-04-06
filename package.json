@@ -1,8 +1,8 @@
 {
-  "name": "com.xsduan.hierarchy-folders",
+  "name": "de.soraphis.hierarchy-folders",
   "displayName": "Heirarchy Folders",
-  "version": "0.1.0",
-  "unity": "2018.1",
+  "version": "0.2.0",
+  "unity": "2018.3",
   "description": "Self-deleting Folder objects for the heirarchy.",
   "keywords": [
       "folder",
@@ -12,6 +12,9 @@
   "author": {
     "name": "Shane Duan"
   },
+  "contributors": [
+    "Oliver Biwer <soraphis@gmail.com>"
+  ],
   "category": "Unity",
   "dependencies": {}
 }
